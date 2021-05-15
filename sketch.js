@@ -105,7 +105,7 @@ else{
   add.show();
   dog.visible=true;
  // dog.addImage(dog1);
-
+foodObj.display();
 
 }
 
